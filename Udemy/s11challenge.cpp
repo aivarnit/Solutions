@@ -1,3 +1,6 @@
+//Anthony Varnit April 24, 2024
+//This code modularizes a previous solution to section 9
+
 #include <iostream>
 #include <vector>
 #include <ctype.h>
